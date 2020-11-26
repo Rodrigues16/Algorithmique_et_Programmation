@@ -67,7 +67,6 @@ plt.show()
 
 
 
-
 def inter(deb,fin):
     T,X=[],[]
     A=sep()[0]
